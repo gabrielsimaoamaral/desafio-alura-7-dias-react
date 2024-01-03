@@ -1,0 +1,10 @@
+{
+  "firebaseConfig": {
+    "apiKey": "AIzaSyCvI4XlMKnFunoLdqiqgbELi1Z-5s-j0rw",
+    "authDomain": "seven-days-of-code-react.firebaseapp.com",
+    "projectId": "seven-days-of-code-react",
+    "storageBucket": "seven-days-of-code-react.appspot.com",
+    "messagingSenderId": "1084704701771",
+    "appId": "1:1084704701771:web:558236d28d07e41f69bcce"
+  }
+}
